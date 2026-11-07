@@ -1,0 +1,72 @@
+[
+  {
+    "vendor_id": "V01",
+    "name": "PT Sumber Material Nusantara",
+    "bank_name": "Bank Mandiri",
+    "bank_account": "1370018452011",
+    "city": "Jakarta"
+  },
+  {
+    "vendor_id": "V02",
+    "name": "PT Baja Perkasa Abadi",
+    "bank_name": "Bank BCA",
+    "bank_account": "5260318874102",
+    "city": "Bekasi"
+  },
+  {
+    "vendor_id": "V03",
+    "name": "CV Karya Betonindo",
+    "bank_name": "Bank BRI",
+    "bank_account": "0382019927455",
+    "city": "Bogor"
+  },
+  {
+    "vendor_id": "V04",
+    "name": "PT Elektrikal Nusantara Jaya",
+    "bank_name": "Bank BNI",
+    "bank_account": "8801234567",
+    "city": "Jakarta"
+  },
+  {
+    "vendor_id": "V05",
+    "name": "CV Plumbing Sejahtera",
+    "bank_name": "Bank Mandiri",
+    "bank_account": "1370019923814",
+    "city": "Depok"
+  },
+  {
+    "vendor_id": "V06",
+    "name": "PT Cat Warna Prima",
+    "bank_name": "Bank BCA",
+    "bank_account": "5260317752098",
+    "city": "Tangerang"
+  },
+  {
+    "vendor_id": "V07",
+    "name": "PT Kayu Jati Makmur",
+    "bank_name": "Bank BRI",
+    "bank_account": "0382018817364",
+    "city": "Cikarang"
+  },
+  {
+    "vendor_id": "V08",
+    "name": "CV Alat Berat Rentindo",
+    "bank_name": "Bank BNI",
+    "bank_account": "0462017738291",
+    "city": "Jakarta"
+  },
+  {
+    "vendor_id": "V09",
+    "name": "PT Granit Alam Sejahtera",
+    "bank_name": "Bank Mandiri",
+    "bank_account": "1370016645207",
+    "city": "Tangerang"
+  },
+  {
+    "vendor_id": "V10",
+    "name": "PT Kaca Bangun Persada",
+    "bank_name": "Bank BNI",
+    "bank_account": "8801234567",
+    "city": "Jakarta"
+  }
+]

@@ -1,0 +1,43 @@
+po_id,vendor_id,po_date,line_no,item_name,unit,qty,unit_price
+PO-001,V01,2026-01-05,1,Semen Portland 50kg,sak,1200,68500
+PO-001,V01,2026-01-05,2,Pasir beton,m3,180,285000
+PO-002,V01,2026-02-02,1,Bata merah press,pcs,20000,950
+PO-002,V01,2026-02-02,2,Semen Portland 50kg,sak,350,68500
+PO-003,V01,2026-03-02,1,Pasir beton,m3,240,285000
+PO-003,V01,2026-03-02,2,Semen Portland 50kg,sak,600,68500
+PO-004,V02,2026-01-08,1,Besi beton D13,batang,1500,118500
+PO-004,V02,2026-01-08,2,Plat baja 6mm,lembar,260,865000
+PO-005,V02,2026-02-09,1,Besi WF 200,batang,90,1485000
+PO-005,V02,2026-02-09,2,Besi beton D13,batang,500,118500
+PO-006,V02,2026-03-09,1,Besi beton D13,batang,700,118500
+PO-006,V02,2026-03-09,2,Plat baja 6mm,lembar,80,865000
+PO-007,V03,2026-01-05,1,Beton ready mix K300,m3,420,985000
+PO-008,V03,2026-02-20,1,Beton ready mix K300,m3,320,985000
+PO-009,V03,2026-04-01,1,Beton ready mix K225,m3,300,885000
+PO-010,V04,2026-01-12,1,"Kabel NYM 3x2,5",roll,220,685000
+PO-010,V04,2026-01-12,2,Panel listrik MDP,unit,26,4750000
+PO-011,V04,2026-03-03,1,Lampu LED highbay,pcs,900,145500
+PO-011,V04,2026-03-03,2,"Kabel NYM 3x2,5",roll,60,685000
+PO-012,V05,2026-01-06,1,Pipa PVC 4 inch,batang,800,92500
+PO-012,V05,2026-01-06,2,Fitting elbow 4 inch,pcs,2400,18750
+PO-013,V05,2026-02-16,1,Pipa PVC 4 inch,batang,300,92500
+PO-013,V05,2026-02-16,2,Kran air kuningan,pcs,200,64500
+PO-014,V06,2026-01-14,1,Cat tembok eksterior 25kg,pail,70,685500
+PO-014,V06,2026-01-14,2,Thinner A,liter,350,32500
+PO-015,V06,2026-02-23,1,Cat tembok eksterior 25kg,pail,120,685500
+PO-015,V06,2026-02-23,2,Cat besi anti karat,kaleng,700,88500
+PO-016,V07,2026-01-07,1,Kayu kamper 5x7,batang,380,145000
+PO-016,V07,2026-01-07,2,Plywood 9mm,lembar,550,128500
+PO-017,V07,2026-02-24,1,Kayu kamper 5x7,batang,400,145000
+PO-017,V07,2026-02-24,2,Plywood 9mm,lembar,600,128500
+PO-018,V07,2026-04-06,1,Plywood 9mm,lembar,220,128500
+PO-018,V07,2026-04-06,2,Kayu kamper 5x7,batang,140,145000
+PO-019,V08,2026-01-09,1,Sewa excavator PC200,hari,60,2850000
+PO-020,V08,2026-03-11,1,Sewa crane 25 ton,hari,40,4250000
+PO-020,V08,2026-03-11,2,Sewa genset 100 kVA,hari,50,1950000
+PO-021,V09,2026-01-13,1,Granit tile 60x60,m2,1876,250000
+PO-022,V09,2026-03-16,1,Granit tile 60x60,m2,1516,250000
+PO-023,V10,2026-01-15,1,Kaca tempered 10mm,m2,280,785000
+PO-023,V10,2026-01-15,2,Rangka aluminium,batang,520,342500
+PO-024,V10,2026-03-23,1,Kaca tempered 10mm,m2,120,785000
+PO-024,V10,2026-03-23,2,Rangka aluminium,batang,200,342500
