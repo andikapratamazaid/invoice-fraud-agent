@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Invoice Fraud &amp; Three-Way Match Agent, Dashboard</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Invoice Fraud &amp; Three-Way Match Agent</h1>
+  <p class="sub">Dashboard hasil analisis invoice vendor: pencocokan PO, BAST, dan invoice.
+  Seluruh data pada halaman ini adalah data fiktif untuk demonstrasi.</p>
+</header>
+
+<main>
+  <section class="cards" id="summary-cards"></section>
+
+  <section>
+    <h2>Distribusi status invoice</h2>
+    <div id="status-bars"></div>
+  </section>
+
+  <section>
+    <h2>Temuan per jenis pemeriksaan</h2>
+    <div id="finding-bars"></div>
+  </section>
+
+  <section>
+    <h2>Peringkat risiko vendor</h2>
+    <table id="vendor-table">
+      <thead>
+        <tr><th>Peringkat</th><th>Vendor</th><th>Skor risiko</th><th>Invoice</th>
+            <th>Nilai tagihan</th><th>Temuan</th><th>Tahan bayar</th><th>Rekening bersama</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Invoice TAHAN BAYAR</h2>
+    <table id="tahan-table">
+      <thead>
+        <tr><th>Nomor invoice</th><th>Vendor</th><th>Tanggal</th><th>Nilai</th>
+            <th>Skor</th><th>Temuan</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Catatan pemeriksaan pola</h2>
+    <div id="pattern-notes"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Invoice Fraud &amp; Three-Way Match Agent, dashboard statis dari data.js hasil analisis nyata
+  atas dataset contoh. Data vendor, PO, dan invoice seluruhnya fiktif.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
